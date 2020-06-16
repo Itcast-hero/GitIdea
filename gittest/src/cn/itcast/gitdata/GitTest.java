@@ -10,6 +10,7 @@ package cn.itcast.gitdata;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("heima ");
+        System.out.println("itcast ");
     }
 
 }
