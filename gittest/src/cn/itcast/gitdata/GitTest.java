@@ -11,6 +11,7 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("heima ");
         System.out.println("itcast ");
+        System.out.println("china ");
     }
 
 }
